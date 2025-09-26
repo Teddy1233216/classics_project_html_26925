@@ -1,0 +1,76 @@
+/* Try decoding this one! */
+
+h1 {
+	font-family:sans-serif;
+	font:sans-serif;
+	color:black;
+	text-align:center;
+}
+
+a {
+	font-family:sans-serif;
+	font:sans-serif;
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #1F5673;
+    border: none;
+    border-radius: 6px;
+    text-decoration: none;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+p {
+	font-family: sans-serif;
+	font: sans-serif;
+	color: black;
+	display: flex;
+	flex-direction: column;
+	align-items: left;
+}
+
+ul {
+	font-family:sans-serif;
+	font: sans-serif;
+	color: black;
+}
+
+h3 {
+	font-family:sans-serif;
+	font:sans-serif;
+	color:black;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	text-decoration: none;
+	border: none;
+}
+
+/* The next bit is hard! */
+
+h4 {
+	font-family:sans-serif;
+	font: sans-serif;
+	color: black;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	text-decoration: none;
+	border: none;
+	/* This next part is useless */
+	background-color: #ffffff;
+	color: blue;
+	color: green;
+	color: red;
+	color: black;
+	/* Until here */
+	color: rgb(0, 0, 0)
+	/* Done with the CSS! */
+}
